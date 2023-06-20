@@ -1,0 +1,7 @@
+C:\Users\wendell.mcardoso\source\repos\Atv09EstoqueProdutos\Atv09EstoqueProdutos\bin\Debug\Atv09EstoqueProdutos.exe.config
+C:\Users\wendell.mcardoso\source\repos\Atv09EstoqueProdutos\Atv09EstoqueProdutos\bin\Debug\Atv09EstoqueProdutos.exe
+C:\Users\wendell.mcardoso\source\repos\Atv09EstoqueProdutos\Atv09EstoqueProdutos\bin\Debug\Atv09EstoqueProdutos.pdb
+C:\Users\wendell.mcardoso\source\repos\Atv09EstoqueProdutos\Atv09EstoqueProdutos\obj\Debug\Atv09EstoqueProdutos.csproj.AssemblyReference.cache
+C:\Users\wendell.mcardoso\source\repos\Atv09EstoqueProdutos\Atv09EstoqueProdutos\obj\Debug\Atv09EstoqueProdutos.csproj.CoreCompileInputs.cache
+C:\Users\wendell.mcardoso\source\repos\Atv09EstoqueProdutos\Atv09EstoqueProdutos\obj\Debug\Atv09EstoqueProdutos.exe
+C:\Users\wendell.mcardoso\source\repos\Atv09EstoqueProdutos\Atv09EstoqueProdutos\obj\Debug\Atv09EstoqueProdutos.pdb
